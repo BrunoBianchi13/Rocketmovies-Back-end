@@ -72,7 +72,7 @@ $ npm start
 ## 💻 Projeto
 
 
-- [Acesse ao projeto completo](https://brunobianchi13.github.io/Desafio-Focus-Timer/)
+- [Acesse ao projeto completo](git@github.com:BrunoBianchi13/Rocket-Movies.git)
 
 ---
 
