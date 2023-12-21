@@ -54,10 +54,10 @@ Para clonar e executar esta aplicação, você precisará do [Git](https://git-s
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/BrunoBianchi13/api-Food-Explorer.git
+$ git clone git@github.com:BrunoBianchi13/Rocketmovies-back-end.git
 
 # Entre no repositório
-$ cd api-Food-Explorer
+$ cd Rocketmovies-back-end
 
 # Instale o package.json
 $ npm install
@@ -66,7 +66,6 @@ $ npm install
 $ npm start
 
 # A API estará ativa em http://localhost:3333
-# OBS: para logar como Admin, Email: "Admin" Senha: "123"
 ```
 
 
